@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bear-homepage/static/css/main.748c3dab.chunk.css",
+    "main.js": "/bear-homepage/static/js/main.710a44ac.chunk.js",
+    "main.js.map": "/bear-homepage/static/js/main.710a44ac.chunk.js.map",
+    "runtime-main.js": "/bear-homepage/static/js/runtime-main.af2734dc.js",
+    "runtime-main.js.map": "/bear-homepage/static/js/runtime-main.af2734dc.js.map",
+    "static/js/2.c6ab0aee.chunk.js": "/bear-homepage/static/js/2.c6ab0aee.chunk.js",
+    "static/js/2.c6ab0aee.chunk.js.map": "/bear-homepage/static/js/2.c6ab0aee.chunk.js.map",
+    "index.html": "/bear-homepage/index.html",
+    "precache-manifest.e8a547273d886fa8ab56c623ef50cea7.js": "/bear-homepage/precache-manifest.e8a547273d886fa8ab56c623ef50cea7.js",
+    "service-worker.js": "/bear-homepage/service-worker.js",
+    "static/css/main.748c3dab.chunk.css.map": "/bear-homepage/static/css/main.748c3dab.chunk.css.map",
+    "static/js/2.c6ab0aee.chunk.js.LICENSE.txt": "/bear-homepage/static/js/2.c6ab0aee.chunk.js.LICENSE.txt",
+    "static/media/cal-stadium.jpg": "/bear-homepage/static/media/cal-stadium.93e1d036.jpg",
+    "static/media/connect-icon.PNG": "/bear-homepage/static/media/connect-icon.bbc714b6.PNG",
+    "static/media/our-story-icon.PNG": "/bear-homepage/static/media/our-story-icon.3632d881.PNG",
+    "static/media/virtual-sproul-icon.PNG": "/bear-homepage/static/media/virtual-sproul-icon.e2b231a6.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af2734dc.js",
+    "static/js/2.c6ab0aee.chunk.js",
+    "static/css/main.748c3dab.chunk.css",
+    "static/js/main.710a44ac.chunk.js"
+  ]
+}
