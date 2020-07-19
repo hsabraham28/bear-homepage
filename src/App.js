@@ -1,26 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Component } from 'react';
+import './Assets/css/default.min.css';
+import Header from './components/headerComponent/header';
+import Footer from './components/footerComponent/footer';
+import Homepage from './components/pages/homePage';
+import Slideshow from './components/slideshowComponent/slideshow';
+import IconButton from './components/iconButtonComponent/iconButton';
+import ButtonTitles from './components/buttonTitlesComponent/buttonTitles';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+
+      <Header />
+
+      <Slideshow />
+
+      <Homepage />
+
+      <IconButton />
+
+      <ButtonTitles />
+
+      <Footer />
+        
     </div>
-  );
+      );
+  }
 }
+
 
 export default App;
